@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.debugConfig": {
+        "args": [
+            "--br",
+            "-i",
+            "out1.txt",
+            "-o",
+            "out3.txt",
+        ]
+    }
+}
